@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/201804040_MYR.unity
+  isLoaded: 1
+  isActive: 1
